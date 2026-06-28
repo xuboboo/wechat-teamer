@@ -2,7 +2,7 @@
 
 专为**微信公众号**与**内容创作者**打造的现代 Markdown 排版引擎。
 
-> **在线体验**：[https://publish.raphael.app](https://publish.raphael.app)
+> **在线体验**：[https://api.xubobo.top/wechat](https://api.xubobo.top/wechat)
 
 ![会火AI 截图](media/screenshot.png)
 
@@ -31,7 +31,7 @@
   </a>
 </p>
 <p align="center">
-  <a href="https://publish.raphael.app">
+  <a href="https://api.xubobo.top/wechat">
     <img src="https://img.shields.io/badge/%E2%96%B6%20Live%20Preview-Visit%20Pages-2ea44f?style=for-the-badge" alt="Live Preview on Pages" />
   </a>
   <a href="media/demo.mp4">
